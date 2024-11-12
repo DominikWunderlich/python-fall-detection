@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+env/
+
+# Ignore data folder
+Data/
+*.DS_Store
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
